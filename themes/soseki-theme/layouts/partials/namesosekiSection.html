@@ -1,0 +1,36 @@
+{{ with .Site.Data.namesosekiSection }}
+{{ if .enable }}
+<section class="section namesoseki" id="name">
+    <div class="namesoseki__background"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="namesoseki__heading">
+                    <div class="text-light">
+                        <span class="top-title pre-line">{{ .topTitle }}</span>
+                        {{ .title | markdownify }}
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="tab-content ">
+                    <div class="namesoseki__education tab-pane active" id="{{.tab1Target}}">
+                        {{ $Section := .education }}
+                        {{ range $Section }}
+                        <div class="namesoseki__education_item">
+                            <!-- <span class="pre-line text-primary"> {{ .time }} </span> -->
+                            {{ .content | markdownify }}
+                              <img src="images/namesoseki/Natsume_Soseki_photo.jpg" alt="Soseki Natsume">
+                            </div>
+                        </div>
+                        {{ end }}
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
