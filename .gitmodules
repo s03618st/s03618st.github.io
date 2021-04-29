@@ -1,0 +1,6 @@
+[submodule "soseki-test2/themes/themes/eureka"]
+	path = soseki-test2/themes/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
+[submodule "soseki-test2/themes/eureka"]
+	path = soseki-test2/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
