@@ -1,0 +1,27 @@
+---
+enable: true
+topTitle: Awards
+title: >
+  ## Sōseki is an Award-Winning AI
+
+  世界的に認知されているSōseki
+
+
+education:
+  - content: >
+      #### NeurIPS 2020
+
+        国際会議 NeurIPS2020 で開催されたEfficientQA competitionにおいてSōsekiはUnrestrictedトラックで参加チーム中3位、6GBトラックで参加チーム中2位になりました。
+
+        Sōseki ranked in Top5 in 2 tracks at EfficientQA, an open domain question answering challenge at NeurIPS 2020.
+
+    time: 2020
+
+  - content: >
+      #### Master in Arts
+
+        Studio Ousiaが開発したモデルが、質問応答の世界で最も有名なデータセットの1つであるSQuAD v1.1において、世界最高の回答精度を獲得しました
+
+        Studio Ousia’s model ranks ranked #1 on the SQuAD v1.1 leaderboard.
+
+    time: 2020
