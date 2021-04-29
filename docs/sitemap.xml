@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://s03618st.github.io/about/</loc>
+    <loc>http://soseki.ai/about/</loc>
     <lastmod>2021-04-30T05:56:54+09:00</lastmod>
   </url><url>
-    <loc>https://s03618st.github.io/categories/</loc>
+    <loc>http://soseki.ai/categories/</loc>
   </url><url>
-    <loc>https://s03618st.github.io/</loc>
+    <loc>http://soseki.ai/</loc>
   </url><url>
-    <loc>https://s03618st.github.io/tags/</loc>
+    <loc>http://soseki.ai/tags/</loc>
   </url>
 </urlset>

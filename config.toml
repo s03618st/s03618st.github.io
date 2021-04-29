@@ -3,6 +3,10 @@ languageCode = "en-us"
 paginate = 6
 theme = "soseki-theme"
 title = "Soseki"
+
+publishDir = "docs"
+canonifyurls = true
+
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -83,5 +87,3 @@ weight = 2
 [blackfriday]
 extensions = ["hardLineBreak"]
 
-publishDir = "docs"
-canonifyurls = true
