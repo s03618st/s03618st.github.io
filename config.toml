@@ -1,0 +1,86 @@
+baseURL = "https://s03618st.github.io/"
+languageCode = "en-us"
+paginate = 6
+theme = "soseki-theme"
+title = "Soseki"
+
+
+# Main Menu
+[[menu.main]]
+name = "Home"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "About"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Awards"
+url = "#awards"
+weight = 3
+[[menu.main]]
+name = "Why Sōseki?"
+url = "#why"
+weight = 4
+# [[menu.main]]
+# name = "Behind the name：Sōseki"
+# url = "#name"
+# weight = 5
+[[menu.main]]
+name = "News"
+url = "#news"
+weight = 6
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "About me"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Frequently Ask Question"
+url = "#"
+weight = 2
+[[menu.sitemap]]
+name = "Privacy & Policy"
+url = "#"
+weight = 3
+[[menu.sitemap]]
+name = "Latest Article"
+url = "#"
+weight = 4
+
+[params]
+blogPageURL = "news"
+contactLink = "#"
+copyright = "All right reserved copyright © Studio Ousia"
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "YOUR FORMSPREE URL"
+googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+logo = "images/site-navigation/logo.png"
+
+[params.address]
+address = "23 Khan Niketon, Grand Street, NYK."
+email = "hello@example.com"
+openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+phone = "+(448) 833 5272 332"
+
+[params.map]
+APIkey = "YOUR GOOGLE MAP API"
+latitude = "23.7783741"
+longitude = "90.3746808"
+pinImage = "images/pin.png"
+
+# Social icons
+[[params.social]]
+icon = "fa-facebook-official"
+url = "https://www.facebook.com/StudioOusia/"
+weight = 1
+[[params.social]]
+icon = "fa-twitter-square"
+url = "https://twitter.com/studioousia"
+weight = 2
+
+
+#breaklines
+[blackfriday]
+extensions = ["hardLineBreak"]
