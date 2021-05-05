@@ -1,4 +1,4 @@
-baseURL = "https://s03618st.github.io"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 paginate = 6
 theme = "soseki-theme"
@@ -82,6 +82,3 @@ weight = 2
 #breaklines
 [blackfriday]
 extensions = ["hardLineBreak"]
-
-[minify]
-disableJSON = true

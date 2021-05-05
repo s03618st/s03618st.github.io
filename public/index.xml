@@ -2,18 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Soseki</title>
-    <link>https://s03618st.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on Soseki</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://s03618st.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://s03618st.github.io/about/</link>
-      <pubDate>Fri, 30 Apr 2021 05:56:54 +0900</pubDate>
-      
-      <guid>https://s03618st.github.io/about/</guid>
-      <description>this is a test page</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
