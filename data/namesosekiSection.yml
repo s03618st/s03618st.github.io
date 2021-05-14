@@ -1,22 +1,17 @@
 ---
 enable: true
-topTitle: Sōsekiの由来
+topTitle: Story
 title: >
   ## Behind the name：Sōseki
 
 education:
   - content: >
-      #### 夏目漱石
+      #### Natsume Sōseki 
 
-        夏目漱石は日本を代表する文豪で、「坊ちゃん」をはじめ、その著作は世界中で愛されています。千円札にその肖像が使われるぐらい身近な存在でもあります。
+        Natsume Sōseki is a Japanese novelist. Born in 1867, he wrote classics such as “Kokoro”, “Botchan” and “I Am a Cat” and is renowned in Japan and around the world. He currently appears on the 1000 yen bill.
+        
+        In developing our new AI model, we wanted our model to be recognized to have a deep understanding of text and be used around the world. These are characteristics that Natsume Sōseki has, and therefore we chose to name our model after him.
 
-        ・日本発で、世界に広げたいと思っている
-
-        ・テキストの意味理解を深めていくAIでありたいと思っている
-
-        ・人々の身近なサービス等を支える身近な存在でありたいと思っている
-
-        今回弊社がリリースする新たなAIは上記の思いを伝えたいと考え、夏目漱石にあやかり”Sōseki"と命名することといたしました。
 
 
     time:
